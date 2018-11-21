@@ -1,4 +1,4 @@
-this is an application which handle the enoloyee data
+this is an application which handle the employee data
 technology used
 reactjs redux and spring boot java
 npm install and start the ui app
